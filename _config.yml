@@ -10,7 +10,7 @@ description: "二鹏的博客"
 keywords: 芝华塔尼欧海湾的夜晚, 费城的二鹏, 二鹏
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 0
 
 # ---------------- #
 #      Author      #
