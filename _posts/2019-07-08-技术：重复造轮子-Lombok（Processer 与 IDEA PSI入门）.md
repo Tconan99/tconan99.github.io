@@ -3,7 +3,7 @@ layout: post
 uuid: 9d3948f9-d931-4b0f-be1d-07d6b07b7e03
 title: 技术：重复造轮子-Lombok（Processer 与 IDEA PSI入门）
 categories: [技术]
-description: 
+description: 重复造轮子之Lombok篇
 keywords: 技术, lombok, processer, 重复造轮子
 ---
 
